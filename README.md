@@ -1,2 +1,5 @@
 # Machine_Learning_for_Finance
-COMP0050 Module @UCL
+COMP0050 Module @UCL <br />
+✨ Hierarchical clustering for financial industries <br />
+✨ Elbow diagrams <br />
+✨ Principal Component Analysis and Explained Variance <br />
